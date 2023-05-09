@@ -27,6 +27,7 @@ class TripadvisorSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse_item)
 
     def parse_item(self, response):
+        # https://www.yelp.com/biz/queen-bee-indonesian-and-chinese-munno-para-west?osq=Chinese
         item = ScrapyYelpItem()
         item["name"] = response.xpath("//title/text()").get()
         item['address'] = response.xpath(
