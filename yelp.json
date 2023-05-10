@@ -1,0 +1,4522 @@
+[
+  {
+    "source_url": "https://www.yelp.com/biz/mr-wong-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:47Z",
+    "name": "Mr Wong",
+    "telephone": "(02) 9114 7317",
+    "description": "",
+    "address": {
+      "streetAddress": "3 Bridge Ln",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/P5cRMaHMCd7t3nFrX_s0rA/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Cantonese",
+    "reviewCount": 398
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/neptune-palace-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:49Z",
+    "name": "Neptune Palace Restaurant",
+    "telephone": "(02) 9241 3338",
+    "description": "",
+    "address": {
+      "streetAddress": "Cnr Pitt &amp; Alfred Sts\nLevel 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/PmWDZUauIKIJngLZooiQdw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 25
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/din-tai-fung-sydney-9?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:49Z",
+    "name": "Din Tai Fung",
+    "telephone": "(02) 9264 6010",
+    "description": "",
+    "address": {
+      "streetAddress": "644 George St\nShop 11.04, Level 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/e00KAQvjzlbjvNCVJKvTig/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 316
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mr-wu-broadway?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:49Z",
+    "name": "Mr. Wu",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Broadway Shopping Centre\n1 Bay Street",
+      "addressLocality": "Broadway",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2007"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/sIUv6jzjaRy2C-z_z4-tsw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spicy-china-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "Spicy China",
+    "telephone": "(02) 9262 9372",
+    "description": "",
+    "address": {
+      "streetAddress": "70 Druitt St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.6,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/CDDzqLnU8HLTMfeADdnUcA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 17
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lotus-dumpling-bar-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "Lotus Dumpling Bar",
+    "telephone": "(02) 9251 8328",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 3/16 Hickson Rd\nDawes Point",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/paMMlaTsunrzSR2006ASjg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 43
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/new-shanghai-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "New Shanghai",
+    "telephone": "(02) 8386 8368",
+    "description": "",
+    "address": {
+      "streetAddress": "188 Pitt St\nShop 1017-1020",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/U8f9a_DAcMHyt2MJ2W17iQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": "http://www.newshanghai.com.au",
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 25
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinatown-noodle-restaurant-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "Chinatown Noodle Restaurant",
+    "telephone": "(09) 6601 418",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 1\n104 Pyrmont St",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/oFnnL5U58tUswFHo4hNX2w/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/happy-chef-seafood-and-noodles-restaurant-sydney-4?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "Happy Chef Seafood & Noodles Restaurant",
+    "telephone": "(02) 9281 5832",
+    "description": "",
+    "address": {
+      "streetAddress": "401 Sussex St\nShop F3",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/vzfJNayBTvxQHoaK14xM5g/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 47
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinese-noodle-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "Chinese Noodle Restaurant",
+    "telephone": "(02) 9281 9051",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 7\n8 Quay St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mz684RBH-hYwRXJ6tiqRXg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 98
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spicy-sichuan-restaurant-glebe?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:50Z",
+    "name": "Spicy Sichuan Restaurant",
+    "telephone": "(02) 9660 8200",
+    "description": "",
+    "address": {
+      "streetAddress": "1-9 Glebe Point Rd",
+      "addressLocality": "Glebe",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2037"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/8lEw3isOj3GJ78UZs42zKw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 11
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/malay-chinese-takeaway-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:51Z",
+    "name": "Malay Chinese Takeaway",
+    "telephone": "(02) 9231 6788",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 1\n50-58 Hunter St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/odSMhmeZfUXiFomk9Gjlug/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Malaysian",
+    "reviewCount": 71
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/the-rocks-dynasty-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:51Z",
+    "name": "The Rocks Dynasty Restaurant",
+    "telephone": "(02) 9252 3010",
+    "description": "",
+    "address": {
+      "streetAddress": "33-35 Kent St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/iL8sth-KaqxqhcbVBSqWOA/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spicy-lips-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:51Z",
+    "name": "Spicy Lips",
+    "telephone": "(02) 9669 4230",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop4A, Event Cinemas\n505-525 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/VZaTf7FQZTDH-O04m3Xp9A/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinatown-noodle-king-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:52Z",
+    "name": "Chinatown Noodle King",
+    "telephone": "(02) 9266 0933",
+    "description": "",
+    "address": {
+      "streetAddress": "357 Sussex St\nLevel 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/qIpEZCuIkbu-BG14pyfp8Q/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 18
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinese-noodle-house-chinatown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:52Z",
+    "name": "Chinese Noodle House",
+    "telephone": "(02) 9281 4508",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop TG2 And TG3, Prince Centre\n8 Quay St",
+      "addressLocality": "Chinatown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/YAWRmBq5OjDbghBf8zeU9A/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Noodles",
+    "reviewCount": 12
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/noble-house-fine-chinese-cuisine-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:52Z",
+    "name": "Noble House Fine Chinese Cuisine",
+    "telephone": "(02) 9233 4652",
+    "description": "",
+    "address": {
+      "streetAddress": "21 Bent St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/ho-jiak-haymarket-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:52Z",
+    "name": "Ho Jiak Haymarket",
+    "telephone": "(02) 8040 0252",
+    "description": "",
+    "address": {
+      "streetAddress": "92 Hay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.6,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/h1GBlUW3E2zYNSAFjPNpMg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Malaysian",
+    "reviewCount": 33
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/master-bowl-chinese-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:52Z",
+    "name": "Master Bowl Chinese Restaurant",
+    "telephone": "(02) 9267 9922",
+    "description": "",
+    "address": {
+      "streetAddress": "1-7 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/_YVXS97v0scfIKi0Xi0xNg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 7
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/ding-tai-fung-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:53Z",
+    "name": "Ding Tai Fung",
+    "telephone": "(02) 9660 9084",
+    "description": "",
+    "address": {
+      "streetAddress": "Star City Retail Caf\u00e9 Ct Precinct, 80\nShop 6",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/TKL6FumPudR52nd6t_ut3A/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 17
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/beijing-legend-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:53Z",
+    "name": "Beijing Legend",
+    "telephone": "0403 688 188",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 14\n80 John St",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/I1TMPCkdsI4zQwbGkXqOXg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/hunter-and-barrel-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:53Z",
+    "name": "Hunter & Barrel",
+    "telephone": "(02) 9264 9888",
+    "description": "",
+    "address": {
+      "streetAddress": "Tenancy 303\nCockle Bay Wharf",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/7Cr_rVpXxSq_q2yBXfUq9g/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Australian",
+    "reviewCount": 53
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/blue-eye-dragon-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:53Z",
+    "name": "Blue Eye Dragon",
+    "telephone": "(02) 9518 9955",
+    "description": "",
+    "address": {
+      "streetAddress": "37 Pyrmont St\nShop 2",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 4.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/clneihb6o2QYn-DMajiHKA/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 9
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spice-temple-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:53Z",
+    "name": "Spice Temple",
+    "telephone": "(02) 8078 1888",
+    "description": "",
+    "address": {
+      "streetAddress": "10 Bligh St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ttvNve50SkGAEUhMpDfLDw/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 49
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/tai-wong-barbecue-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:53Z",
+    "name": "Tai Wong Barbecue",
+    "telephone": "(02) 9212 1481",
+    "description": "",
+    "address": {
+      "streetAddress": "12 Campbell St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lxMxhGIoPrp6dp_ir12Qzw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lynn-shanghai-cuisine-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:54Z",
+    "name": "Lynn Shanghai Cuisine",
+    "telephone": "(02) 9267 7780",
+    "description": "",
+    "address": {
+      "streetAddress": "199 Castlereagh St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/yyJhSYZcc3S6pkQDUs3mzg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 26
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dumpling-and-noodle-house-potts-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:54Z",
+    "name": "Dumpling & Noodle House",
+    "telephone": "(02) 9326 9639",
+    "description": "",
+    "address": {
+      "streetAddress": "165 Victoria St\nShop 1",
+      "addressLocality": "Potts Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Pg18PAiM9nDzMFqtmvDPgw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 19
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/old-town-hong-kong-cuisine-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:54Z",
+    "name": "Old Town Hong Kong Cuisine",
+    "telephone": "(02) 9264 3888",
+    "description": "",
+    "address": {
+      "streetAddress": "10A Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/gvJxx8ZubrQ9sIVY-rYGrw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 36
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/marigold-restaurant-haymarket-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:54Z",
+    "name": "Marigold Restaurant",
+    "telephone": "(02) 9281 3388",
+    "description": "",
+    "address": {
+      "streetAddress": "683 George St\nLevel 4 &amp; 5",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/xQ71xfbPd2BUX-39pTC-GQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 71
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spice-world-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:55Z",
+    "name": "Spice World",
+    "telephone": "(02) 9211 1515",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 1\n405-411 Sussex St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/4adOnCW1s0f9a16eBF0Hew/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/red-chilli-sichuan-restaurant-haymarket-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:55Z",
+    "name": "Red Chilli Sichuan Restaurant",
+    "telephone": "(02) 9211 8122",
+    "description": "",
+    "address": {
+      "streetAddress": "51 Dixon St\nShop 3",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/yzY4fAyQYTW41TY-qp44Lg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 19
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/steam-king-restaurant-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:55Z",
+    "name": "Steam King Restaurant",
+    "telephone": "(02) 9280 0800",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 5\n209 Thomas St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/gw64PE828WEwypMVLselDQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Cantonese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/golden-harbour-restaurant-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:55Z",
+    "name": "Golden Harbour Restaurant",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "31-33 Dixon St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/k6J3WVWTZ27hnU8ylXjSIQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 16
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mr-bee-thai-kitchen-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "Mr Bee Thai Kitchen",
+    "telephone": "(02) 9221 5775",
+    "description": "",
+    "address": {
+      "streetAddress": "Unit 2\n50 Hunter St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ZeYDavE1uLz440R6FQ9-XA/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Thai",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/d-and-b-dumplings-and-beer-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "D&B Dumplings and Beer",
+    "telephone": "(02) 9331 4905",
+    "description": "",
+    "address": {
+      "streetAddress": "83 Stanley St\nDarlinghurst",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/goukjPrcjEgw8SBjOkQk4A/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 8
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dragon-boat-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "Dragon Boat",
+    "telephone": "(02) 9282 9922",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 2, Shops 445-451\nLevel 2, Shop 445",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/cF5ODsg2E9gh1suwbco5MA/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 12
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/yang-guo-fu-malatang-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "Yang Guo Fu Malatang",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop B9, Dixon House Food Court\n413-415 Sussex St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/xslj1nZn-HOcnpFbiFKzkg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/din-tai-fung-chippendale?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "Din Tai Fung",
+    "telephone": "(02) 9692 0791",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 2\n28 Broadway",
+      "addressLocality": "Chippendale",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2008"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/XAQtYDSg-HlzuUnP4vYjKQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 17
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/the-yellow-door-restaurant-rozelle?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "The Yellow Door Restaurant",
+    "telephone": "(02) 9810 2211",
+    "description": "",
+    "address": {
+      "streetAddress": "576 Darling St",
+      "addressLocality": "Rozelle",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2039"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/hung-cheung-restaurant-marrickville?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:56Z",
+    "name": "Hung Cheung Restaurant",
+    "telephone": "(02) 9560 4681",
+    "description": "",
+    "address": {
+      "streetAddress": "338 Marrickville Rd",
+      "addressLocality": "Marrickville",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2204"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0A6u0DSnZsgybKZ52PS2iQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 15
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/di-wang-taiwanese-hotpot-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:57Z",
+    "name": "Di Wang Taiwanese Hotpot",
+    "telephone": "(02) 9261 0888",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 34\n1 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/60maijjCSQ1DczzD6guFXw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mh-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:57Z",
+    "name": "MH",
+    "telephone": "(02) 9281 9720",
+    "description": "",
+    "address": {
+      "streetAddress": "92 Hay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/HjA-0En1P45V7ZW78rv7Nw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/tang-hui-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:57Z",
+    "name": "Tang Hui",
+    "telephone": "(02) 8081 0888",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 10.41, World Square Shopping Centre\n680 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/xgJkZz61PKD-Hp0HGkFezQ/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/kiroran-silk-road-uygur-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:57Z",
+    "name": "Kiroran Silk Road Uygur",
+    "telephone": "(02) 9283 0998",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 3\n6 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ao2bfkwyT1lN5EcioZn5xQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 9
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/east-phoenix-chinese-restaurant-zetland?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:57Z",
+    "name": "East Phoenix Chinese Restaurant",
+    "telephone": "(02) 9662 2088",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 3, East Village\nShop 53, Level 3",
+      "addressLocality": "Zetland",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2017"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/vcD3op3-QIMxRURzzk-4LA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": "http://www.eastphoenix.com.au/",
+    "servesCuisine": "Chinese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/huang-tai-ji-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:58Z",
+    "name": "Huang Tai Ji",
+    "telephone": "(02) 8065 1752",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 16A, Regent Place Arcade\n501 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lhGV7FbL1l1YGbdLSEIlQw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/red-chili-sichuan-hot-pot-glebe?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:58Z",
+    "name": "Red Chili Sichuan Hot Pot",
+    "telephone": "(02) 9518 5328",
+    "description": "",
+    "address": {
+      "streetAddress": "15-21 Glebe Point Rd",
+      "addressLocality": "Glebe",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2037"
+    },
+    "aggregateRating": 1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Df_8h24QqQ7TMfVoxEDEWg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Szechuan",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fei-jai-potts-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:58Z",
+    "name": "Fei Jai",
+    "telephone": "(02) 8668 4424",
+    "description": "",
+    "address": {
+      "streetAddress": "31 Challis Ave\nShop 1",
+      "addressLocality": "Potts Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/NrpQvTDQ2FWTZVOxu4tZVg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 10
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lotus-barangaroo-barangaroo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:58Z",
+    "name": "Lotus Barangaroo",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 8\nWulugul Walk",
+      "addressLocality": "Barangaroo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/iqdZz_dCPHGmeCVc00aTpg/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/the-east-chinese-restaurant-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:58Z",
+    "name": "The East Chinese Restaurant",
+    "telephone": "(02) 9252 6868",
+    "description": "",
+    "address": {
+      "streetAddress": "1 Macquarie St\nShop 8",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/a63nLKa68ZRiKf82vzV6Yw/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 14
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/xi-an-cuisine-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:59Z",
+    "name": "Xi An Cuisine",
+    "telephone": "(02) 9211 5335",
+    "description": "",
+    "address": {
+      "streetAddress": "90 Hay St\nShop 4",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/okC4RKh-vEiyj2QH2l3v1g/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Fast Food",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/cho-dumpling-king-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:59Z",
+    "name": "Cho Dumpling King",
+    "telephone": "(02) 9281 2760",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 6, Prince Centre\n8 Quay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/CnHYa2kP_e3Lbg1Fem_rWg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Taiwanese",
+    "reviewCount": 9
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/emperor-garden-restaurant-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:59Z",
+    "name": "Emperor Garden Restaurant",
+    "telephone": "(02) 9211 2135",
+    "description": "",
+    "address": {
+      "streetAddress": "96-100 Hay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 1.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/h9Ya1Sk-o50YrAbla-LVKA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Cantonese",
+    "reviewCount": 18
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/in-the-jin-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:59Z",
+    "name": "In The Jin",
+    "telephone": "(02) 9267 6226",
+    "description": "",
+    "address": {
+      "streetAddress": "1/2-8 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/EeJVRJFRbePgDqQpV6AZqg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Szechuan",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/din-tai-fung-broadway?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:45:59Z",
+    "name": "Din Tai Fung",
+    "telephone": "(02) 9280 0063",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop S225, Level 2\n1 Bat St",
+      "addressLocality": "Broadway",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/h6l3PCL1_jb5QAEA3d7wcw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mini-hotpot-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:00Z",
+    "name": "Mini Hotpot",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 4\n63-69 Dixon St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/tuAB1weM2qHOei2TfOJiIg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/new-taste-newtown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:00Z",
+    "name": "New Taste",
+    "telephone": "(02) 9550 1922",
+    "description": "",
+    "address": {
+      "streetAddress": "153 King St",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ijFXFxIkLBrJzNC5SwpXlQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/hulu-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:00Z",
+    "name": "Hulu",
+    "telephone": "(02) 9299 9889",
+    "description": "",
+    "address": {
+      "streetAddress": "19 Lime St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/C7_ygTHP4KdVpA9WlPMUaw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/77-dumpling-king-glebe?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:00Z",
+    "name": "77 Dumpling King",
+    "telephone": "(02) 9518 8111",
+    "description": "",
+    "address": {
+      "streetAddress": "159 Glebe Point Rd",
+      "addressLocality": "Glebe",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2037"
+    },
+    "aggregateRating": 1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/U1EMcMaBX4FJqRdEc9rX4Q/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fat-noodle-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:00Z",
+    "name": "Fat Noodle",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "80 Pyrmont St\nLevel 1, The Star",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 3.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/PIv_qJva1Y9qC6oTIwB8yQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": "https://www.star.com.au/sydney\u2026",
+    "servesCuisine": "Noodles",
+    "reviewCount": 19
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/quanjude-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:02Z",
+    "name": "Quanjude",
+    "telephone": "(02) 9267 7288",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 10.41\n680 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/o7PKGvRFFYVtg7xHmq3sMw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/super-bowl-chinese-restaurant-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:02Z",
+    "name": "Super Bowl Chinese Restaurant",
+    "telephone": "(02) 9281 2462",
+    "description": "",
+    "address": {
+      "streetAddress": "41 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/5aaI9cl1lAHMA5tm1dzb2w/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 33
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fishermans-wharf-seafood-restaurant-pyrmont-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:02Z",
+    "name": "Fisherman's Wharf Seafood Restaurant",
+    "telephone": "(02) 9660 9888",
+    "description": "",
+    "address": {
+      "streetAddress": "50 Bank St\nLevel 1",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/UcpPGEUdkC2CqpkxWLlQvA/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Seafood",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/china-lane-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "China Lane",
+    "telephone": "(02) 9231 3939",
+    "description": "",
+    "address": {
+      "streetAddress": "2 Angel Pl",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/4ae-YPQ2NI4ZUiL8JWr3YQ/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 22
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/the-eight-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "The Eight",
+    "telephone": "(02) 9282 9988",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 3\n9-13 Hay St\nMarket City",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.6,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/CL5IjLvKyXLTI-ujNV1EtA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 37
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wok-flavour-balmain?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "Wok Flavour",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 139\n2-18 Buchanan St",
+      "addressLocality": "Balmain",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2041"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/HZfHWj85bnJPVjblKzTYug/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Cantonese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fortune-village-chinese-restaurant-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "Fortune Village Chinese Restaurant",
+    "telephone": "(02) 9299 7273",
+    "description": "",
+    "address": {
+      "streetAddress": "209 Clarence St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/kPk9STS2zPGFxctrtoLItw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 15
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/five-star-fresh-chinese-food-bondi-junction?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "Five Star Fresh Chinese Food",
+    "telephone": "(02) 9386 1210",
+    "description": "",
+    "address": {
+      "streetAddress": "3/157-165 Oxford St",
+      "addressLocality": "Bondi Junction",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2022"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/XygsMQMAW-pSeU9jqrLKbw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/uncle-mings-bar-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "Uncle Ming's Bar",
+    "telephone": "0438 202 272",
+    "description": "",
+    "address": {
+      "streetAddress": "55 York St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/TF9JtQ1S6JGNWcmIraQGFg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 49
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/holy-duck-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:03Z",
+    "name": "Holy Duck",
+    "telephone": "(02) 9999 9999",
+    "description": "",
+    "address": {
+      "streetAddress": "2-10 Kensington St\nChippendale",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2008"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/y4iYLy72smlKEbuImsIA7A/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 8
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spicy-sichuan-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:04Z",
+    "name": "Spicy Sichuan Restaurant",
+    "telephone": "(02) 9211 4222",
+    "description": "",
+    "address": {
+      "streetAddress": "2 Cunningham St\nLevel 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/XRoRjPN6zccoHTsoGOaeOg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 15
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/ms-gs-potts-point-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:04Z",
+    "name": "Ms. G's",
+    "telephone": "(02) 9114 7342",
+    "description": "",
+    "address": {
+      "streetAddress": "155 Victoria St",
+      "addressLocality": "Potts Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/-3L4uwU1dpJ29XtXgnloOg/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Asian Fusion",
+    "reviewCount": 111
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bai-zhu-hui-sizzling-and-hot-pot-kitchen-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:04Z",
+    "name": "Bai Zhu Hui - Sizzling & Hot Pot Kitchen",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 3\n203-209 Thomas St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/c0_m8pg6zpR84fnLR06Ybg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Szechuan",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lotus-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:05Z",
+    "name": "Lotus The Galeries",
+    "telephone": "(02) 9267 3699",
+    "description": "",
+    "address": {
+      "streetAddress": "The Galeries, Level 1, 500 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/sZVzWFoa7-xYkgVMHx2P9A/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 19
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/seachange-chinese-restaurant-the-rocks?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:05Z",
+    "name": "Seachange Chinese Restaurant",
+    "telephone": "(02) 9247 0148",
+    "description": "",
+    "address": {
+      "streetAddress": "75 Harrington St\nShop 13",
+      "addressLocality": "The Rocks",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/two-sticks-yunnan-china-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:05Z",
+    "name": "Two Sticks Yunnan China",
+    "telephone": "0416 638 284",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 7\n61 Quay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9iRObgglaeqcbXqtKRIhIA/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/addison-chinese-takeaway-marrickville?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:05Z",
+    "name": "Addison Chinese Takeaway",
+    "telephone": "(02) 9560 2416",
+    "description": "",
+    "address": {
+      "streetAddress": "124 Addison Rd",
+      "addressLocality": "Marrickville",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2204"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/7g8rMiuLAquf1_qWKgA2ow/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Fast Food",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/great-dragon-traditional-hot-pot-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:05Z",
+    "name": "Great Dragon Traditional Hot Pot",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "20 Goulburn St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Tr0PTM6qCJoVuxOXAJ-lUw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/xopp-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "Xopp",
+    "telephone": "(02) 8030 0000",
+    "description": "",
+    "address": {
+      "streetAddress": "Mezzanine Level, Shop 31-32/1 Little Pier St\nThe Darling Exchange",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/_5_HbcjYH1_KQy8_HYk5Ow/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/shangrila-chinese-restaurant-walsh-bay?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "Shangrila Chinese Restaurant",
+    "telephone": "(02) 9241 4365",
+    "description": "",
+    "address": {
+      "streetAddress": "16A Hickson Road",
+      "addressLocality": "Walsh Bay",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/M44Qe69V8p6tX-hzARFstQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bbq-king-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "BBQ King",
+    "telephone": "(02) 9267 2433",
+    "description": "",
+    "address": {
+      "streetAddress": "76-78 Liverpool St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/rZosileNPdJdOo5ZPPz2Dg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 12
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/griddle-king-chippendale?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "Griddle King",
+    "telephone": "0450 741 716",
+    "description": "",
+    "address": {
+      "streetAddress": "20 City Rd",
+      "addressLocality": "Chippendale",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2008"
+    },
+    "aggregateRating": 3.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/-V2-kLRUsDObT-fxra09fg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Creperies",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/ultimo-kitchen-ultimo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "Ultimo Kitchen",
+    "telephone": "(02) 9211 2812",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 1\n61-65 Macarther Street",
+      "addressLocality": "Ultimo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2007"
+    },
+    "aggregateRating": 4,
+    "image": "",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fishermans-wharf-seafood-restaurant-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "Fisherman's Wharf Seafood Restaurant",
+    "telephone": "(02) 9660 9888",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 1\nBank St",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/o6lrsAO7yLFtDUKeqJo6Ag/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 10
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/china-doll-woolloomooloo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "China Doll",
+    "telephone": "(02) 9380 6744",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 4\n6 Cowper Wharf Rd",
+      "addressLocality": "Woolloomooloo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/yZ5UaLyG0KV0tHUurG5oKA/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 39
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lok-lok-dumpling-bar-darling-harbour?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:06Z",
+    "name": "Lok Lok Dumpling Bar",
+    "telephone": "(02) 9281 8986",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop FC14, Level 1\n2-10 Darling Dr",
+      "addressLocality": "Darling Harbour",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/50Yn3-9UKuB4cNDbf8PRcQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/yummy-chinese-bbq-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:07Z",
+    "name": "Yummy Chinese BBQ",
+    "telephone": "(02) 9280 2800",
+    "description": "",
+    "address": {
+      "streetAddress": "761 George St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/LH3o7sQ_ONiDYPFiFwdCZA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/work-in-progress-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:07Z",
+    "name": "Work in Progress",
+    "telephone": "(02) 9114 7320",
+    "description": "",
+    "address": {
+      "streetAddress": "50 King St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lMpMxogrHxZLufeqFTA6Jw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 10
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mother-chus-taiwanese-gourmet-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:07Z",
+    "name": "Mother Chu's Taiwanese Gourmet",
+    "telephone": "(02) 9211 0288",
+    "description": "",
+    "address": {
+      "streetAddress": "84-88 Dixon St\nShop 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/466bQvlz_aaFLKuNykTyAQ/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 32
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dais-golden-crown-restaurant-cremorne?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:07Z",
+    "name": "Dai's Golden Crown Restaurant",
+    "telephone": "(02) 9953 3388",
+    "description": "",
+    "address": {
+      "streetAddress": "307 Military Rd",
+      "addressLocality": "Cremorne",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2090"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/cbrTg17cgvjouE9eSXKJ9Q/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/taste-of-shanghai-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:07Z",
+    "name": "Taste of Shanghai",
+    "telephone": "(02) 9261 8832",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 907\n644 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/kCKWEAaxXI_gE-c6VEICIw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 22
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/nine-dragons-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:08Z",
+    "name": "Nine Dragons Restaurant",
+    "telephone": "(02) 9211 3549",
+    "description": "",
+    "address": {
+      "streetAddress": "39-45 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.6,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/OYsbm_UiCfqGYeZXwf94BQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 10
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/street-market-asian-tapas-kirribilli?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:08Z",
+    "name": "Street Market Asian Tapas",
+    "telephone": "(02) 9922 3111",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 3\n12 Fitzroy St",
+      "addressLocality": "Kirribilli",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2061"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0Yf__Soi0Zrqs_II9Dlhaw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Asian Fusion",
+    "reviewCount": 12
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/two-sticks-yunnan-china-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:08Z",
+    "name": "Two Sticks - Yunnan China",
+    "telephone": "(02) 8958 2542",
+    "description": "",
+    "address": {
+      "streetAddress": "694 George St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/jank3iA1Hk0PSRqfWoOQhA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 11
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/home-thai-restaurant-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:09Z",
+    "name": "Home Thai Restaurant",
+    "telephone": "(02) 9261 5058",
+    "description": "",
+    "address": {
+      "streetAddress": "299 Sussex St\nShop 1-2",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/3YSen8rTAP1VO_IZ8r0htw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Thai",
+    "reviewCount": 169
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/shancheng-hot-pot-king-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:09Z",
+    "name": "Shancheng Hot Pot King",
+    "telephone": "(02) 9267 6366",
+    "description": "",
+    "address": {
+      "streetAddress": "8A/363 Sussex St\nShop 8A",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9BoNin2JBUMHxmJAnTyLbw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 11
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/maggie-chows-chinese-restaurant-potts-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:09Z",
+    "name": "Maggie Chow's Chinese Restaurant",
+    "telephone": "(02) 9357 1100",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 9\n50-58 Macleay St",
+      "addressLocality": "Potts Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ibwr5UdhVXbuvxmAlZIy6w/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/red-chilli-sichuan-restaurant-glebe?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:09Z",
+    "name": "Red Chilli Sichuan Restaurant",
+    "telephone": "(02) 9518 5328",
+    "description": "",
+    "address": {
+      "streetAddress": "15-21 Glebe Point Rd",
+      "addressLocality": "Glebe",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2037"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/vD4Fxy4rGYLGxnCiTVkLnw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/golden-fang-chippendale?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:09Z",
+    "name": "Golden Fang",
+    "telephone": "(02) 9280 1231",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 8\nShop 8",
+      "addressLocality": "Chippendale",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2008"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/v8ADvbdcd4agwnPtNH9Zjw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 8
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/queen-chow-enmore?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:10Z",
+    "name": "Queen Chow",
+    "telephone": "(02) 9114 7333",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 1\n167 Enmore Rd",
+      "addressLocality": "Enmore",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/s_ngMlCqgX8iYYTSY5MN-Q/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/maopai-dishes-of-hotpot-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:10Z",
+    "name": "Maopai Dishes of Hotpot",
+    "telephone": "(02) 8958 7857",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 9-11\n363 Sussex St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/DDh1yoEsEfGTBRqoPk2txw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/ching-yip-coffee-lounge-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:10Z",
+    "name": "Ching Yip Coffee Lounge",
+    "telephone": "(02) 9281 1591",
+    "description": "",
+    "address": {
+      "streetAddress": "413-415 Sussex St\nShop 210, Fl 2",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ZtAJFbTjtQAtZ4AzNoyLQw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/ichi-ban-boshi-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:10Z",
+    "name": "Ichi-ban Boshi",
+    "telephone": "(02) 9264 7780",
+    "description": "",
+    "address": {
+      "streetAddress": "Level 2, Shop 8\n500 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lT90nTEoof7KlC0nH3ltKg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Ramen",
+    "reviewCount": 54
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/east-ocean-restaurant-haymarket-4?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:10Z",
+    "name": "East Ocean Restaurant",
+    "telephone": "(02) 9212 1989",
+    "description": "",
+    "address": {
+      "streetAddress": "421-429 Sussex St\nLevel 1",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/EU4NvFwcpJ7nZQHhp2X3VA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 33
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/two-sticks-yunnan-china-barangaroo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:11Z",
+    "name": "Two Sticks Yunnan China",
+    "telephone": "(02) 8958 2542",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 2, Tower 3\n300 Barangaroo Ave",
+      "addressLocality": "Barangaroo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ze0U8DcpJGyvGY4PKIiyYg/l.jpg",
+    "priceRange": "",
+    "website_uri": "http://www.twosticks.com.au",
+    "servesCuisine": "Noodles",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/spring-yunnan-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:11Z",
+    "name": "Spring Yunnan",
+    "telephone": "(02) 9280 4537",
+    "description": "",
+    "address": {
+      "streetAddress": "215A Thomas St\nHaymarket",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Lm3wwj7MqyY4Na9KJCvZ_Q/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/din-tai-fung-north-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:11Z",
+    "name": "Din Tai Fung",
+    "telephone": "(02) 8033 2353",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop No P45\n30 Blue St",
+      "addressLocality": "North Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2060"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/5fUwF5iXgfIbLDMboz0WkA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 9
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/kafe-x-hong-kong-kitchen-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:11Z",
+    "name": "Kafe X Hong Kong Kitchen",
+    "telephone": "0413 509 916",
+    "description": "",
+    "address": {
+      "streetAddress": "44a Darlinghurst Rd",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/fqcA9RO8m3bEKlAYypjsag/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Cantonese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dumpling-avenue-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:12Z",
+    "name": "Dumpling Avenue",
+    "telephone": "0434 834 688",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 10.24\n644 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/sRxhEQtWTEVhDPaLgJgRcQ/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bite-of-china-newtown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:12Z",
+    "name": "Bite of China",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "121 King St",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/RsVoNCsRlvTdTPVnGQ5WKw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lees-fortuna-court-chinese-restaurant-crows-nest-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:12Z",
+    "name": "Lees Fortuna Court Chinese Restaurant",
+    "telephone": "(02) 9906 3838",
+    "description": "",
+    "address": {
+      "streetAddress": "24 Falcon St",
+      "addressLocality": "Crows Nest",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2065"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/8UbviaQRMF5PCJFeTVdSBg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 10
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/tai-pei-restaurant-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:13Z",
+    "name": "Tai Pei Restaurant",
+    "telephone": "(02) 9281 2889",
+    "description": "",
+    "address": {
+      "streetAddress": "8 Quay Street\nShop 2",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2UB7LP2E-mhoe-yw547acw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/allfine-chinese-cuisine-house-forest-lodge?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:13Z",
+    "name": "Allfine Chinese Cuisine House",
+    "telephone": "(09) 6607 568",
+    "description": "",
+    "address": {
+      "streetAddress": "35a Ross St",
+      "addressLocality": "Forest Lodge",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2037"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/8gfvkAPMqMIO-lwabBbyjw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/sea-bay-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:13Z",
+    "name": "Sea Bay Restaurant",
+    "telephone": "(02) 9267 4855",
+    "description": "",
+    "address": {
+      "streetAddress": "372 Pitt St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ru6kKMM9mvL0mxmEiXCBcw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 36
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/hong-kong-kings-chef-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:14Z",
+    "name": "Hong Kong King's Chef",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "25-29 Dixon St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/NcRUC4RYOwcM7_adx_oPZg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fu-manchu-darlinghurst?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:14Z",
+    "name": "Fu Manchu",
+    "telephone": "(02) 9360 9424",
+    "description": "",
+    "address": {
+      "streetAddress": "251 Victoria St",
+      "addressLocality": "Darlinghurst",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/L4KFPM3y1q6QH6RjjQngBw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 17
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chefs-gallery-townhall-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:14Z",
+    "name": "Chefs Gallery Townhall",
+    "telephone": "(02) 9267 8877",
+    "description": "",
+    "address": {
+      "streetAddress": "501 George St\nShop 12",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/NV9JAUno3LkwWLhh17Svfw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 106
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/emperors-table-north-ryde?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:14Z",
+    "name": "Emperor's Table",
+    "telephone": "(02) 9878 4766",
+    "description": "",
+    "address": {
+      "streetAddress": "45 Magdala Rd",
+      "addressLocality": "North Ryde",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2113"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/izKEISNz99rQEAtBrUDctQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinatown-noodle-restaurant-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:14Z",
+    "name": "Chinatown Noodle Restaurant",
+    "telephone": "(02) 9283 8859",
+    "description": "",
+    "address": {
+      "streetAddress": "77 Bathurst St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lr6PLY86rnqQJPtf-P-Wgw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 20
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinese-dumpling-master-newtown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:14Z",
+    "name": "Chinese Dumpling Master",
+    "telephone": "(02) 8959 5725",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop2\n63-71 Enmore Rd",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/jzB2HX1_pwmMCQMchchaAg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/a-bowl-of-noodles-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:15Z",
+    "name": "A Bowl Of Noodles",
+    "telephone": "0416 225 845",
+    "description": "",
+    "address": {
+      "streetAddress": "733-735 George St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mRjWxTkbxyqVlLbBxcuqDw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/yan-wolli-creek?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:15Z",
+    "name": "Yan",
+    "telephone": "(02) 9599 8712",
+    "description": "",
+    "address": {
+      "streetAddress": "G03-19 Arncliffe St",
+      "addressLocality": "Wolli Creek",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2205"
+    },
+    "aggregateRating": 4.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2k40x529P-MJ3qfGKHDLtg/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Asian Fusion",
+    "reviewCount": 8
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/sydney-best-tastes-wolli-creek?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:15Z",
+    "name": "Sydney Best Tastes",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "12 Brodie Spark Dr",
+      "addressLocality": "Wolli Creek",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2205"
+    },
+    "aggregateRating": 4.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/r31fOBdQPutcgO8FR3Cgog/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/doodles-noodles-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:15Z",
+    "name": "Doodles Noodles",
+    "telephone": "(08) 0650 865",
+    "description": "",
+    "address": {
+      "streetAddress": "1/209 Castlereagh St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/MDoqpj7oPElGI3kYXDz3Eg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Noodles",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wok-station-pyrmont?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Wok Station",
+    "telephone": "(02) 9518 8188",
+    "description": "",
+    "address": {
+      "streetAddress": "2/135 Harris St\n#2",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/yZ-s9pbHC7ocRgBC7W06wg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Thai",
+    "reviewCount": 15
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bamboo-asian-garden-dawes-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Bamboo Asian Garden",
+    "telephone": "(02) 8065 9268",
+    "description": "",
+    "address": {
+      "streetAddress": "16B Hickson Rd",
+      "addressLocality": "Dawes Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/happy-dragon-chinese-restaurant-abbotsford?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Happy Dragon Chinese Restaurant",
+    "telephone": "(02) 9712 1083",
+    "description": "",
+    "address": {
+      "streetAddress": "262 Great North Rd",
+      "addressLocality": "Abbotsford",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2046"
+    },
+    "aggregateRating": 4,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dongtian-kitchen-and-bar-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Dongtian Kitchen & Bar",
+    "telephone": "(02) 9286 3688",
+    "description": "",
+    "address": {
+      "streetAddress": "Ground Level\n541-543 Kent St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/wk9GX62xXtkYL_TwFZBmOQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wang-wang-shanghai-silver-star-kingsford?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Wang Wang Shanghai Silver Star",
+    "telephone": "(02) 9662 1688",
+    "description": "",
+    "address": {
+      "streetAddress": "476 Anzac Pde",
+      "addressLocality": "Kingsford",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2032"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/luPXLY7yWLYopy3Q7TUTOw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 7
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/zhenghao-restaurant-newtown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Zhenghao Restaurant",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "83 Enmore Rd",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/PUr61KQboylQqa9etc1B-g/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mama-bao-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:16Z",
+    "name": "Mama Bao",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "309 Kent St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/yZQLjikJlVs_n8rXPehG-w/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wok-express-glebe?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:17Z",
+    "name": "Wok Express",
+    "telephone": "(02) 9552 6877",
+    "description": "",
+    "address": {
+      "streetAddress": "1/315-317 Glebe Point Rd",
+      "addressLocality": "Glebe",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2037"
+    },
+    "aggregateRating": 1.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/-2RvJXBasJhMy4Qx-UtF4A/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wei-long-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:17Z",
+    "name": "Wei Long",
+    "telephone": "(02) 9283 3570",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 330\n289-295 Sussex St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/b7HE7N9ylNpT-_EsSpEnnQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinese-garden-teahouse-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:17Z",
+    "name": "Chinese Garden Teahouse",
+    "telephone": "(02) 9281 4197",
+    "description": "",
+    "address": {
+      "streetAddress": "100 Murray St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Br7Her6SPqCJ8Wo1mIgwQg/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bund-barangaroo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:17Z",
+    "name": "CHI by Lotus",
+    "telephone": "(02) 9052 9188",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 2, 100 Barangaroo Avenue",
+      "addressLocality": "Barangaroo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/f_-lpkcyFf4kT2_qJjZb8A/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wok-flavour-balmain-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:17Z",
+    "name": "Wok Flavour",
+    "telephone": "(02) 9555 9593",
+    "description": "",
+    "address": {
+      "streetAddress": "2280 Buchanan St\nShop 139",
+      "addressLocality": "Balmain",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2041"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mahjong-room-surry-hills?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:18Z",
+    "name": "Mahjong Room",
+    "telephone": "(02) 9361 3985",
+    "description": "",
+    "address": {
+      "streetAddress": "312 Crown St",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/FWQvw28K8F09Y1UWTL7_0Q/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/madame-shanghai-darlinghurst?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:18Z",
+    "name": "Madame Shanghai",
+    "telephone": "(02) 8318 8618",
+    "description": "",
+    "address": {
+      "streetAddress": "18 College St",
+      "addressLocality": "Darlinghurst",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/EVJztHlJnQGNqLlnye1yow/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/jaya-malaysian-food-millers-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:18Z",
+    "name": "Jaya Malaysian Food",
+    "telephone": "(02) 9252 7337",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 3\n183-187 Kent St",
+      "addressLocality": "Millers Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/pswu8IlhpzYmltr6ZZTdVA/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Malaysian",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/kensington-peking-restaurant-kensington-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:19Z",
+    "name": "Kensington Peking Restaurant",
+    "telephone": "(02) 9313 7100",
+    "description": "",
+    "address": {
+      "streetAddress": "172 Anzac Pde",
+      "addressLocality": "Kensington",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2033"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/oMHT4J-miWgch8zBBR4Pvw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/happy-ds-redfern?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:19Z",
+    "name": "Happy D's",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "169 Regent St",
+      "addressLocality": "Redfern",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2016"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/DgMhjwRwSlJd2nMIoEBL-A/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/new-hong-kong-chinese-restaurant-potts-point-potts-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:19Z",
+    "name": "New Hong Kong Chinese Restaurant Potts Point",
+    "telephone": "(02) 9358 3891",
+    "description": "",
+    "address": {
+      "streetAddress": "18 Hughes St",
+      "addressLocality": "Potts Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2011"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/luyu-and-yum-yum-newtown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:19Z",
+    "name": "Luyu & Yum Yum",
+    "telephone": "(02) 9519 9888",
+    "description": "",
+    "address": {
+      "streetAddress": "Level1\n196 King St",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 3.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/qV823SndPhbjmuM0Gtu8bA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 16
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/butterfly-garden-dawes-point?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:19Z",
+    "name": "Butterfly Garden",
+    "telephone": "(02) 8065 9268",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 2\n16 Hickson Rd",
+      "addressLocality": "Dawes Point",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/CW7zqqHtwPEU7z6Yk2SiFg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/zhang-chef-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:19Z",
+    "name": "Zhang Chef",
+    "telephone": "(02) 9283 0632",
+    "description": "",
+    "address": {
+      "streetAddress": "372 Pitt St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mZzWj1fFyP38F2kdHebYyA/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Korean",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/south-pacific-chinese-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:20Z",
+    "name": "South Pacific Chinese Restaurant",
+    "telephone": "(02) 9247 9450",
+    "description": "",
+    "address": {
+      "streetAddress": "12 Loftus St\nLevel 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mosman-gourmets-inn-mosman?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:20Z",
+    "name": "Mosman Gourmets Inn",
+    "telephone": "(02) 9969 8102",
+    "description": "",
+    "address": {
+      "streetAddress": "639 Military Rd",
+      "addressLocality": "Mosman",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2088"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/155YHwo1E-I9DziV84957w/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/taste-legend-ultimo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:20Z",
+    "name": "Taste Legend",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "74 Mountain St",
+      "addressLocality": "Ultimo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2007"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/7MC_ZUohcBT7TMojfNxp9w/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/cheung-sing-bbq-house-maroubra?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:20Z",
+    "name": "Cheung Sing BBQ House",
+    "telephone": "(02) 9349 3362",
+    "description": "",
+    "address": {
+      "streetAddress": "695 Anzac Pde\nSuite 15",
+      "addressLocality": "Maroubra",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2035"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/u0aJC2o85KOu5Yksv5m8HA/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": "http://www.cheungsingbbqhouse.\u2026",
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fantong-leichhardt?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:20Z",
+    "name": "Fantong",
+    "telephone": "(02) 8056 8588",
+    "description": "",
+    "address": {
+      "streetAddress": "31 Norton St",
+      "addressLocality": "Leichhardt",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2040"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/3xqkoByriKLw646NCf8yJQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": "http://www.fantong.com.au",
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/peninsula-court-chinese-restaurant-hunters-hill?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:20Z",
+    "name": "Peninsula Court Chinese Restaurant",
+    "telephone": "(02) 9879 6266",
+    "description": "",
+    "address": {
+      "streetAddress": "71-75 Gladesville Rd",
+      "addressLocality": "Hunters Hill",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2110"
+    },
+    "aggregateRating": 1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/FO4SbtO74dpulhE2coY_PQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/gourmet-ultimo-chinese-terrace-ultimo-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:21Z",
+    "name": "Gourmet Ultimo Chinese Terrace",
+    "telephone": "(02) 9212 6308",
+    "description": "",
+    "address": {
+      "streetAddress": "12 Mary Ann St",
+      "addressLocality": "Ultimo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2007"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/imperial-28-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:21Z",
+    "name": "Imperial 28 Restaurant",
+    "telephone": "(02) 9231 1920",
+    "description": "",
+    "address": {
+      "streetAddress": "Pitt St Sydney, New South Wales",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/imperial-peking-restaurant-mosman-mosman?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:21Z",
+    "name": "Imperial Peking Restaurant Mosman",
+    "telephone": "(02) 9960 3386",
+    "description": "",
+    "address": {
+      "streetAddress": "762 Military Rd",
+      "addressLocality": "Mosman",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2088"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/fortune-place-chatswood?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:21Z",
+    "name": "Fortune Place",
+    "telephone": "(02) 9419 8669",
+    "description": "",
+    "address": {
+      "streetAddress": "65 Albert Ave",
+      "addressLocality": "Chatswood",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2067"
+    },
+    "aggregateRating": 3.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/uWV1oUSLQA1VvPLvmIX8CQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/green-house-salad-lane-cove?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:22Z",
+    "name": "Green House Salad",
+    "telephone": "(02) 8540 0404",
+    "description": "",
+    "address": {
+      "streetAddress": "11/123 Longueville Rd",
+      "addressLocality": "Lane Cove",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2066"
+    },
+    "aggregateRating": 4.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2e6qdJVYZYbsLuiaazGe6A/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Salad",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/quay-seafood-chinese-restaurant-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:23Z",
+    "name": "Quay Seafood Chinese Restaurant",
+    "telephone": "(02) 9251 9288",
+    "description": "",
+    "address": {
+      "streetAddress": "2 Albert St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/AwYMd0ETV7emvuvLK7R4oQ/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Seafood",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/old-town-hong-kong-barangaroo-barangaroo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:23Z",
+    "name": "Old Town Hong Kong Barangaroo",
+    "telephone": "(02) 9299 8833",
+    "description": "",
+    "address": {
+      "streetAddress": "300 Barangaroo Ave\nMercantile Walk",
+      "addressLocality": "Barangaroo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/tQbAHqaaKdw0gxRCcd3dYg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Cantonese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/palace-chinese-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:23Z",
+    "name": "Palace Chinese Restaurant",
+    "telephone": "(02) 9283 6288",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 38, Level 1, Piccadilly Tower\n133-145 Castlereagh St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.6,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/UQ9wy1slzoDh6pQ_wQmtsQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 36
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/din-tai-fung-dumpling-bar-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:23Z",
+    "name": "Din Tai Fung Dumpling Bar",
+    "telephone": "(02) 8246 7032",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop K504/5, Level 5\n188 Pitt St\nCafe Court",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/7-LNv3JtO__1RGxpdeonFA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Taiwanese",
+    "reviewCount": 78
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/shanghai-wangwang-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:24Z",
+    "name": "Shanghai WangWang",
+    "telephone": "(02) 9283 0697",
+    "description": "",
+    "address": {
+      "streetAddress": "565 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Ad_meoCzCwm7coPIiQg41Q/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 7
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dumpling-inn-balgowlah-plaza-balgowlah?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:24Z",
+    "name": "Dumpling Inn Balgowlah Plaza",
+    "telephone": "(02) 9907 0143",
+    "description": "",
+    "address": {
+      "streetAddress": "318 Sydney Rd\nShop 8",
+      "addressLocality": "Balgowlah",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2093"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/TLRszRLIDQuidLyhw_Y9Tw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/city-noodle-cafe-pyrmont-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:24Z",
+    "name": "City Noodle Cafe",
+    "telephone": "(02) 9338 0588",
+    "description": "",
+    "address": {
+      "streetAddress": "Star City Casino",
+      "addressLocality": "Pyrmont",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2009"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/imperial-peking-chinese-restaurant-kingsford?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:25Z",
+    "name": "Imperial Peking Chinese Restaurant",
+    "telephone": "(02) 9314 4258",
+    "description": "",
+    "address": {
+      "streetAddress": "558 Anzac Pde",
+      "addressLocality": "Kingsford",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2032"
+    },
+    "aggregateRating": 3.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/5CHZV0WGmczciqw1pqtNvA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bamboo-dumpling-bar-surry-hills-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:25Z",
+    "name": "Bamboo Dumpling Bar",
+    "telephone": "(02) 9281 2522",
+    "description": "",
+    "address": {
+      "streetAddress": "140 Commonwealth St",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 5,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chung-shan-restaurant-concord?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:25Z",
+    "name": "Chung Shan Restaurant",
+    "telephone": "(02) 9743 3400",
+    "description": "",
+    "address": {
+      "streetAddress": "104-106 Majors Bay Rd",
+      "addressLocality": "Concord",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2137"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/golden-unicorn-chinese-restaurant-maroubra?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:25Z",
+    "name": "Golden Unicorn Chinese Restaurant",
+    "telephone": "(02) 9344 9278",
+    "description": "",
+    "address": {
+      "streetAddress": "2/193 Maroubra Rd\nLevel 2",
+      "addressLocality": "Maroubra",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2035"
+    },
+    "aggregateRating": 3.6,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/-nlaR1_5-O7_HKWs66v7dQ/l.jpg",
+    "priceRange": "Above A$71",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/china-moon-restaurant-bondi?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:26Z",
+    "name": "China Moon Restaurant",
+    "telephone": "(02) 9389 3346",
+    "description": "",
+    "address": {
+      "streetAddress": "188 Bondi Rd",
+      "addressLocality": "Bondi",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2026"
+    },
+    "aggregateRating": 2.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/iYP5iSe3G1bPm8soIrqwEw/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/flavours-of-peking-castlecrag?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:26Z",
+    "name": "Flavours of Peking",
+    "telephone": "(02) 9958 3288",
+    "description": "",
+    "address": {
+      "streetAddress": "100 Edinburgh Rd\nShop 7",
+      "addressLocality": "Castlecrag",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2068"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0PLQ4riKS-LQ1Koi5NuwoA/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/simmer-huang-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:26Z",
+    "name": "Simmer Huang",
+    "telephone": "(02) 9268 0200",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop B03\n345B Sussex St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/IzVAp9lH_2YujadQ_GrY6Q/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/northeastern-chinese-waterloo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:26Z",
+    "name": "Northeastern Chinese",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "2-4 Gadigal Ave",
+      "addressLocality": "Waterloo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2017"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/handmade-noodle-and-dumpling-kitchen-bondi-beach?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:27Z",
+    "name": "Handmade Noodle and Dumpling Kitchen",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "126 Campbell Pde\nCampbell",
+      "addressLocality": "Bondi Beach",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2026"
+    },
+    "aggregateRating": 2.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/6CkCUQWI1giJqe680jvgIg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/de-zhuang-hotpot-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:27Z",
+    "name": "De Zhuang Hotpot",
+    "telephone": "(02) 8318 0747",
+    "description": "",
+    "address": {
+      "streetAddress": "16/123 Liverpool St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/BBkIJ2OTwy-geIj5agoljg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lilong-by-taste-of-shanghai-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:27Z",
+    "name": "Lilong by Taste of Shanghai",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Gate 56\nT1 International Departures",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2020"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/qBeFXAmkAiQo-0HsChJg5A/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Shanghainese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wings-chinese-seafood-restaurant-five-dock?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:27Z",
+    "name": "Wings Chinese Seafood Restaurant",
+    "telephone": "(02) 9713 4322",
+    "description": "",
+    "address": {
+      "streetAddress": "4 William St",
+      "addressLocality": "Five Dock",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2046"
+    },
+    "aggregateRating": 5,
+    "image": "",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bad-hombres-surry-hills?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:27Z",
+    "name": "Bad Hombres",
+    "telephone": "0410 191 441",
+    "description": "",
+    "address": {
+      "streetAddress": "40 Reservoir Street",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 4.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/TtOy1sqc18GXtlD1QwTtjQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Mexican",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/shanghai-fried-dumpling-wolli-creek?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:28Z",
+    "name": "Shanghai Fried Dumpling",
+    "telephone": "(02) 9597 2036",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 6\n6 Discovery Point Pl",
+      "addressLocality": "Wolli Creek",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2205"
+    },
+    "aggregateRating": 2.9,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/b4u2pgzcwd_Qanj3LfRpJg/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 9
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/gin-gin-takeaway-food-alexandria?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:28Z",
+    "name": "Gin Gin Takeaway Food",
+    "telephone": "(02) 9699 2359",
+    "description": "",
+    "address": {
+      "streetAddress": "392 Botany Rd",
+      "addressLocality": "Alexandria",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2015"
+    },
+    "aggregateRating": 4,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Fast Food",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bluestone-chinese-and-malaysian-restaurant-darlinghurst?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:28Z",
+    "name": "Bluestone Chinese & Malaysian Restaurant",
+    "telephone": "(02) 9361 4567",
+    "description": "",
+    "address": {
+      "streetAddress": "118 Crown St",
+      "addressLocality": "Darlinghurst",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2tBlqGzBnSXLfbVas1KgrA/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/oriental-dumpling-king-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:28Z",
+    "name": "Oriental Dumpling King",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Cnr Dixon St &amp; Little Hay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/e7l47V6e9NTdUgggZPK3UQ/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/imperial-harbourside-restaurant-double-bay?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:28Z",
+    "name": "Imperial Harbourside Restaurant",
+    "telephone": "(02) 9326 2957",
+    "description": "",
+    "address": {
+      "streetAddress": "45A Knox St",
+      "addressLocality": "Double Bay",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2028"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinatown-haymarket-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:29Z",
+    "name": "Chinatown",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "25- 29 Dixon St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/WSlV727VOoujqOtjaamirg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/may-kwai-chinese-restaurant-rose-bay?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:29Z",
+    "name": "May Kwai Chinese Restaurant",
+    "telephone": "(02) 9371 4106",
+    "description": "",
+    "address": {
+      "streetAddress": "710 New S Head Rd",
+      "addressLocality": "Rose Bay",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2029"
+    },
+    "aggregateRating": 5,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/md-thai-darlinghurst?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:29Z",
+    "name": "MD Thai",
+    "telephone": "(02) 9331 8325",
+    "description": "",
+    "address": {
+      "streetAddress": "38 College St",
+      "addressLocality": "Darlinghurst",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/cepAbRxbQmXXsgc0rDphjw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Thai",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/crystal-lake-chinese-restaurant-no-title?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:29Z",
+    "name": "Crystal Lake Chinese Restaurant",
+    "telephone": "(02) 9317 5247",
+    "description": "",
+    "address": {
+      "streetAddress": "Eastlakes Shopping Centre",
+      "addressLocality": "Eastlakes",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2018"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/noodle-star-redfern?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:29Z",
+    "name": "Noodle Star",
+    "telephone": "(02) 9699 1899",
+    "description": "",
+    "address": {
+      "streetAddress": "Surry Hills Shopping Village\nShop 24",
+      "addressLocality": "Redfern",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2016"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/rLnbSSndIq9rPtDGz37stg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/waitan-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:30Z",
+    "name": "Waitan",
+    "telephone": "(02) 8218 1000",
+    "description": "",
+    "address": {
+      "streetAddress": "405 Sussex St\nLevel 1 &amp; 2",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/c9dSd_irvnJgj-NCF8zd0g/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/phnom-penh-teo-chew-noodle-house-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:30Z",
+    "name": "Phnom Penh Teo Chew Noodle House",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Stall B2, Dixon Food Court\nLt Hay St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/PYHsuvcDfvdSnVNUZQuM8g/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/cammeray-chinese-restaurant-cammeray?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:30Z",
+    "name": "Cammeray Chinese Restaurant",
+    "telephone": "(02) 9955 7901",
+    "description": "",
+    "address": {
+      "streetAddress": "514 Miller St",
+      "addressLocality": "Cammeray",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2062"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/golden-tree-chinese-restaurant-darlinghurst?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "Golden Tree Chinese Restaurant",
+    "telephone": "0450 388 518",
+    "description": "",
+    "address": {
+      "streetAddress": "151 Oxford St",
+      "addressLocality": "Darlinghurst",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/emperor-garden-bbq-and-noodles-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "Emperor Garden BBQ & Noodles",
+    "telephone": "(02) 9281 9899",
+    "description": "",
+    "address": {
+      "streetAddress": "213-215 Thomas St",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/PXay75ZrWNXdvyNvwfMP8g/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/croydon-park-chinese-restaurant-croydon-park?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "Croydon Park Chinese Restaurant",
+    "telephone": "(02) 9798 9219",
+    "description": "",
+    "address": {
+      "streetAddress": "157 Georges River Rd\nLevel 2",
+      "addressLocality": "Croydon Park",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2133"
+    },
+    "aggregateRating": 5,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/hokka-hokka-mascot?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "Hokka Hokka",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Keith Smith Ave\nTerminal 2\nDomestic",
+      "addressLocality": "Mascot",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2020"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/EM9hcNqdi6dadw4NQ88NwQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/the-rice-den-st-leonards?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "The Rice Den",
+    "telephone": "(02) 9438 3612",
+    "description": "",
+    "address": {
+      "streetAddress": "30-32 Chandos St",
+      "addressLocality": "St Leonards",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2065"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/5Opla85aU93O2GpzDMvYXA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/little-chinese-kitchen-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "Little Chinese Kitchen",
+    "telephone": "(02) 9231 6720",
+    "description": "",
+    "address": {
+      "streetAddress": "22ALP Market St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/JhQ56BqhoA-HY6A4iLhNJg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/chinatown-noodle-restaurant-sydney-3?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:31Z",
+    "name": "Chinatown Noodle Restaurant",
+    "telephone": "(02) 9281 9051",
+    "description": "",
+    "address": {
+      "streetAddress": "8 Quay St\nShop 7",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/So8N8cACMG6nSrDWrK09fA/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lotus-dining-darling-harbour-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:32Z",
+    "name": "The Gardens By Lotus",
+    "telephone": "(02) 8311 5156",
+    "description": "",
+    "address": {
+      "streetAddress": "Pier Street, Cnr Harbour St\nChinese Garden of Friendship",
+      "addressLocality": "Darling Harbour",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/imperial-signature-crows-nest?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:32Z",
+    "name": "Imperial Signature",
+    "telephone": "(02) 9906 6388",
+    "description": "",
+    "address": {
+      "streetAddress": "46 Willoughby Rd",
+      "addressLocality": "Crows Nest",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2065"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0TIwGQTWzebFQ0ZdgP81-g/l.jpg",
+    "priceRange": "Above A$71",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 12
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/seaforth-palace-chinese-seafood-restaurant-seaforth?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:32Z",
+    "name": "Seaforth Palace Chinese Seafood Restaurant",
+    "telephone": "(02) 9948 1322",
+    "description": "",
+    "address": {
+      "streetAddress": "544 Sydney Rd",
+      "addressLocality": "Seaforth",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2092"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/golden-bay-peking-restaurant-lane-cove?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Golden Bay Peking Restaurant",
+    "telephone": "(02) 9418 8831",
+    "description": "",
+    "address": {
+      "streetAddress": "43 Burns Bay Rd",
+      "addressLocality": "Lane Cove",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2066"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/longrain-restaurant-and-bar-surry-hills-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Longrain Restaurant & Bar",
+    "telephone": "(02) 9280 2888",
+    "description": "",
+    "address": {
+      "streetAddress": "85 Commonwealth St",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/KhVFmXyGB8iinnMB0YcGNA/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Thai",
+    "reviewCount": 48
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/muum-maam-surry-hills?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Muum Maam",
+    "telephone": "(02) 9318 0881",
+    "description": "",
+    "address": {
+      "streetAddress": "50 Holt St\nShop 1",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/MvpUmlt9MfMK5MSujbEqgQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Thai",
+    "reviewCount": 16
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mr-dees-kitchen-surry-hills?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Mr Dee's Kitchen",
+    "telephone": "(08) 3176 898",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 10-11\n55-73 Oxford St",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 4,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/oriental-house-restaurant-and-bar-leichhardt?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Oriental House Restaurant & Bar",
+    "telephone": "(02) 8068 6929",
+    "description": "",
+    "address": {
+      "streetAddress": "62 Norton St",
+      "addressLocality": "Leichhardt",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2040"
+    },
+    "aggregateRating": 0,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/qDnv2cwXe7WBQFbaZxPH6w/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/johnny-wongs-dumpling-bar-darlinghurst?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Johnny Wong's Dumpling Bar",
+    "telephone": "(02) 9331 3100",
+    "description": "",
+    "address": {
+      "streetAddress": "383 Bourke St\nLevel 1",
+      "addressLocality": "Darlinghurst",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/mxQg5H6kIKMV-gpjDTEknQ/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/wockbar-manly-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:33Z",
+    "name": "Wockbar",
+    "telephone": "(02) 9977 1288",
+    "description": "",
+    "address": {
+      "streetAddress": "27 Belgrave St\nShop 3",
+      "addressLocality": "Manly",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2095"
+    },
+    "aggregateRating": 3.8,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/pD9r0JDf-MRPiMMJ8zH4-w/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Dim Sum",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/terrace-chinese-kitchen-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:34Z",
+    "name": "Terrace Chinese Kitchen",
+    "telephone": "(02) 9693 4210",
+    "description": "",
+    "address": {
+      "streetAddress": "Terminal 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2020"
+    },
+    "aggregateRating": 4.7,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/2ZvCpvNTW60sbgRDbWcOyQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Breakfast &amp; Brunch",
+    "reviewCount": 3
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/china-drum-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:34Z",
+    "name": "China Drum",
+    "telephone": "(02) 8296 6430",
+    "description": "",
+    "address": {
+      "streetAddress": "99 York St\nSuite 2, Level 8",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/lvrXlKfBWmdcQIqTJN-TWw/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/hoh-won-chinese-restaurant-kensington?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:34Z",
+    "name": "Hoh Won Chinese Restaurant",
+    "telephone": "(02) 9663 3348",
+    "description": "",
+    "address": {
+      "streetAddress": "134 Anzac Pde",
+      "addressLocality": "Kensington",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2033"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/CUmHa76g_bQPyx_ug2B0Kw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/crazy-wings-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:34Z",
+    "name": "Crazy Wings",
+    "telephone": "(02) 9267 8862",
+    "description": "",
+    "address": {
+      "streetAddress": "1 Dixon St\nShop 41",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/l9rO6zfHfXdcz9xJ1-gKmA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 7
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/little-asia-darlington?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:35Z",
+    "name": "Little Asia",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "King St",
+      "addressLocality": "Darlington",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2008"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bambusia-chinese-restaurant-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:35Z",
+    "name": "Bambusia Chinese Restaurant",
+    "telephone": "(02) 9387 5838",
+    "description": "",
+    "address": {
+      "streetAddress": "29 Newland St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2022"
+    },
+    "aggregateRating": 3.8,
+    "image": "",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 5
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/loon-fong-haymarket?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:35Z",
+    "name": "Loon Fong",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Kimber Ln",
+      "addressLocality": "Haymarket",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/js2zh2L0xGTbkA49MX-Irg/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/gumshara-ramen-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:35Z",
+    "name": "Gumshara Ramen",
+    "telephone": "0410 253 180",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 211\n25-29 Dixon St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/wD1wlVYR6KnZT32JF8WWKw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Ramen",
+    "reviewCount": 90
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/sunflower-taiwanese-gourmet-ultimo?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:35Z",
+    "name": "Sunflower Taiwanese Gourmet",
+    "telephone": "(02) 9211 5298",
+    "description": "",
+    "address": {
+      "streetAddress": "147 Broadway",
+      "addressLocality": "Ultimo",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2007"
+    },
+    "aggregateRating": 4.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/i_6OuU2V7wDBeciu7l2ugQ/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Taiwanese",
+    "reviewCount": 6
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/mamasan-bondi-beach?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:36Z",
+    "name": "Mamasan",
+    "telephone": "(09) 1305 066",
+    "description": "",
+    "address": {
+      "streetAddress": "57-59 Beach Rd\n#57",
+      "addressLocality": "Bondi Beach",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2026"
+    },
+    "aggregateRating": 3.4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/JM_n9lfAaKsCdWKBT3WFtQ/l.jpg",
+    "priceRange": "A$36-70",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 10
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/lotus-dining-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:36Z",
+    "name": "Lotus Barangaroo",
+    "telephone": "(02) 8318 3688",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 8/9 Wulugul Walk\nBarangaroo",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/e-dragon-dumpling-bar-zetland?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:36Z",
+    "name": "E-Dragon Dumpling Bar",
+    "telephone": "(02) 9662 1155",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 36, Ground Floor, East Village Shopping Centre\n2a Defries Ave",
+      "addressLocality": "Zetland",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2017"
+    },
+    "aggregateRating": 2.5,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Hz8aHcx_JiiO4eCFToimug/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/rose-garden-chinese-restaurant-bexley-north?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:36Z",
+    "name": "Rose Garden Chinese Restaurant",
+    "telephone": "(02) 9150 5495",
+    "description": "",
+    "address": {
+      "streetAddress": "101 New Illawarra Rd",
+      "addressLocality": "Bexley North",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2207"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/UFvljvFHKPRARW45s6d93g/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 2
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/bambusia-chinese-restaurant-bondi-beach?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:36Z",
+    "name": "Bambusia Chinese Restaurant",
+    "telephone": "(02) 9300 0487",
+    "description": "",
+    "address": {
+      "streetAddress": "138 Curlewis St",
+      "addressLocality": "Bondi Beach",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2026"
+    },
+    "aggregateRating": 4,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/KN1Tcy7vhcKNhBVTGpb7JQ/l.jpg",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dainty-sichuan-noodle-express-sydney?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:37Z",
+    "name": "Dainty Sichuan Noodle Express",
+    "telephone": "",
+    "description": "",
+    "address": {
+      "streetAddress": "Shop 10\n644 George St",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 3.3,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/w4nlzSApzsIPX3axXOabgA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Szechuan",
+    "reviewCount": 4
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dragon-boat-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:37Z",
+    "name": "Dragon Boat",
+    "telephone": "(02) 9282 9922",
+    "description": "",
+    "address": {
+      "streetAddress": "2-10 Darling Dr\nShop 445",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": "http://www.dragonboatrestauran\u2026",
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/china-town-noodle-king-sydney-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:37Z",
+    "name": "China Town Noodle King",
+    "telephone": "(02) 9266 0933",
+    "description": "",
+    "address": {
+      "streetAddress": "357 Sussex St\nLevel 1",
+      "addressLocality": "Sydney",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2000"
+    },
+    "aggregateRating": 5,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 1
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/dumpling-king-chinese-restaurant-newtown-2?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:37Z",
+    "name": "Dumpling King Chinese Restaurant",
+    "telephone": "(02) 9557 2188",
+    "description": "",
+    "address": {
+      "streetAddress": "194 King St",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 3.2,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ofPoNTkx4iTHJC1x_nKPUA/l.jpg",
+    "priceRange": "A$16-35",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 17
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/davids-kitchen-surry-hills-surry-hills?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:37Z",
+    "name": "David's Kitchen Surry Hills",
+    "telephone": "(02) 9212 6608",
+    "description": "",
+    "address": {
+      "streetAddress": "260 Elizabeth St\nShop 5",
+      "addressLocality": "Surry Hills",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2010"
+    },
+    "aggregateRating": 0,
+    "image": "",
+    "priceRange": "",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 0
+  },
+  {
+    "source_url": "https://www.yelp.com/biz/pho-236-newtown?osq=Chinese",
+    "scrape_datetime": "2023-05-10T06:46:38Z",
+    "name": "Pho 236",
+    "telephone": "(02) 9550 2480",
+    "description": "",
+    "address": {
+      "streetAddress": "236 King St",
+      "addressLocality": "Newtown",
+      "addressCountry": "AU",
+      "addressRegion": "NSW",
+      "postalCode": "2042"
+    },
+    "aggregateRating": 4.1,
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/v49zXR4ZBGP82WpZYkmWyw/l.jpg",
+    "priceRange": "Under A$15",
+    "website_uri": null,
+    "servesCuisine": "Chinese",
+    "reviewCount": 18
+  }
+]
